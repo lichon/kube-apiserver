@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.17.3
+FROM k8s.gcr.io/kube-apiserver:v1.16.11
 MAINTAINER lc <lichon@foxmail.com>
